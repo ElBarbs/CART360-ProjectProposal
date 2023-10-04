@@ -1,2 +1,2 @@
 # CART360 - Project Proposal
-## Louis Barbier - Tania Gaboriault
+## Louis Barbier & Tania Gaboriault
