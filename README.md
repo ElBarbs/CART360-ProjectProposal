@@ -1,3 +1,2 @@
-# CART360 - Project Proposal
+# CART360 - Documentation
 ## Louis Barbier & Tania Gaboriault
-### Documentation
