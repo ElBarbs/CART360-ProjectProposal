@@ -8,3 +8,13 @@
 - Metal
 - Projector (1)
 - Speakers (2)
+- Subwoofer (1)
+
+### TO-DOs
+- [ ] Create wood platform.
+- [ ] Create monolith.
+- [ ] Program Pico W (1) to get data from the thermal camera and send it to computer.
+- [ ] Map output from the thermal camera to the physical world.
+- [ ] Program Pico W (2) to receive data from computer and control LED strip lights.
+- [ ] Create heartbeat sound.
+- [ ] Projection mapping for the Moiré pattern.
