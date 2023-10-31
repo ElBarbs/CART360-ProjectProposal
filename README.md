@@ -17,4 +17,5 @@
 - [ ] Map output from the thermal camera to the physical world.
 - [ ] Program Pico W (2) to receive data from computer and control LED strip lights.
 - [ ] Create heartbeat sound.
+- [ ] Find room for exhibition.
 - [ ] Projection mapping for the Moiré pattern.
