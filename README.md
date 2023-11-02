@@ -9,6 +9,7 @@
 - Projector (1)
 - Speakers (2)
 - Subwoofer (1)
+- Laptop (1)
 
 ### TO-DOs
 - [ ] Create wood platform.
