@@ -1,4 +1,4 @@
-# CART360 - Documentation
+# CART360 - Final Project Documentation
 ## Louis Barbier & Tania Gaboriault
 ### Materials
 - 5m LED Strip Lights (3): 25$ each -> 75$
