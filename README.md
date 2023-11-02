@@ -3,7 +3,7 @@
 ### Materials
 - 5m LED Strip Lights (3): 25$ each -> 75$
 - MLX90640 Thermal Camera Breakout - Wide Angle (1): 85$
-- Raspberry Pi Pico W (2): 6$ each -> 12$
+- Raspberry Pi Pico W (2): 10$ each -> 20$
 - Wooden Platform (1) [2m x 2m]
 - Foil Mirror Paper (1)
 - Projector (1)
