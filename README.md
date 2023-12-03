@@ -18,6 +18,6 @@
 
 ### Data Workflow
 
-1.  The first Pico WH is connected to the thermal camera and strategically positioned on the ceiling. Every 5 seconds, it captures an overhead view of the room and transmits the image data to the laptop using UDP.
+1.  The first Pico WH is connected to the thermal camera and strategically positioned on the ceiling. Every 5 seconds, it captures an overhead view of the room and transmits the image data to the laptop over Wi-Fi using UDP.
 2.  A dedicated Python script runs on the laptop to receive, process, and analyze the thermal imaging data. Subsequently, the script calculates an anxiety level ranging from 0 to 7. The laptop then communicates this anxiety level to the second Pico WH via OSC. This value is also transmitted to a Sonic Pi loop playing on the subwoofer, that imitates a heartbeat. The intensity of the heartbeat sound correlates with the anxiety level, with higher levels resulting in a faster heartbeat.
-3.  The second Pico WH is connected to the Arduino UNO R3, which is connected to the LED strips. The Pico WH receives the anxiety level from the laptop and sends it to the Arduino UNO R3 via UART. The Arduino UNO R3 receives the data and lights up the LED strips accordingly.
+3.  The second Pico WH is connected to the Arduino UNO R3, which is connected to the LED strips. The Pico WH receives the anxiety level from the laptop and sends it to the UNO R3 via UART. The UNO R3 receives the data and lights up the LED strips accordingly.
