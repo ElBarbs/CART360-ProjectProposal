@@ -61,7 +61,7 @@ try:
             (len(higher_temperature_positions[0]) / 192) * 7)
 
         # Send the anxiety index via OSC.
-        # udp_client_pico.send_message("/anxiety", anxiety_index)
+        udp_client_pico.send_message("/anxiety", anxiety_index)
         udp_client_sonicpi.send_message("/anxiety", anxiety_index)
 
         # Print the grid with 'x' marking cells with higher temperature
